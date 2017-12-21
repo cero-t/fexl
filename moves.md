@@ -10,11 +10,11 @@
 
 ### Legend
 
-* S : Standing
-* C c. : Crouching
+* s. : Standing
+* c. : Crouching
 * f. : Front
 * b. : Back
-* ★ : 目押しコンボで有利フレーム数を確認済み。★がないものは計算で求めただけ
+* ★ : 目押しにて有利フレーム数を確認済み。逆に★がないものは計算で求めたのみ。
 
 
 ### Common
