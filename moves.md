@@ -26,6 +26,7 @@
     * 小攻撃 : 1 or 2（EX2PLUSまでは連打キャンセルできる技が1、できない技が2だったが、EXレイヤーはルールが違う）
     * 中攻撃 : 5
     * 大攻撃 : 8
+    * レバー入れ攻撃 : 押したボタンに準拠
 
 
 ## Kairi
@@ -73,12 +74,24 @@
 |c.MK|7|21|+5|発生がEXより1フレ早くなりキャンセル可になった|
 |c.HK|10|47|-||
 
-
 ### Command Move
 
 |Move|発生|全体|有利|備考|
 |----|--:|---:|--:|---|
 |f.HK|14|40|+4||
+
+### Meter gain memo
+
+|Move|Meter gain|
+|----|--:|
+|肘激崩 Chugeki-Hoh|7|
+|掌撃破 Shogekiha|6|
+|肘崩 Chu-Hoh|(t.b.c.)|
+|振刈脚 Shingai-Kyaku|6|
+|掌燐撃 Shorin-Geki|6|
+|振空撃 Shinku-Geki|(t.b.c.)|
+|振脚撃 Shinkyaku-Geki|(t.b.c.)|
+
 
 ## Garuda
 
@@ -105,6 +118,7 @@
 |----|--:|---:|--:|---|
 |b.HP|9|89|-||
 |b.HK|13|77|-||
+
 
 ## Skullo
 
@@ -175,3 +189,11 @@
 |Move|発生|全体|有利|備考|
 |----|--:|---:|--:|---|
 |f.MK|14|38|-|新技|
+
+### Meter gain memo
+
+|Move|Meter gain|
+|----|--:|
+|ソウルフォース Soul Force|6|
+|ライジングドラゴン Rising Dragon|LP/MP:13 HP:21|
+|ジャスティスフィスト Justice Fist|5|
