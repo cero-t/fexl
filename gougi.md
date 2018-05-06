@@ -24,7 +24,7 @@
 - GRAB UP
   - 恐らく投げ間合いが広がる
 - S.CHAIN
-  - 6ボタンチェーン
+  - 6ボタンチェーン
 - 詳細不明
   - DESPERATION
   - EX ARROW
