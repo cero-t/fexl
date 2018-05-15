@@ -25,6 +25,8 @@
   - 恐らく投げ間合いが広がる
 - S.CHAIN
   - 6ボタンチェーン
+- ERASE (ERASE BROW / 旧E.BROW)
+  - 飛び道具を通常技で消せるようになる？（アイコンから推測）
 - 詳細不明
   - DESPERATION
   - EX ARROW
@@ -33,7 +35,6 @@
   - PIERCE
   - FRENZY
   - M.POWER
-  - ERASE (ERASE BROW / 旧E.BROW)
 
 
 ## UNKNOWN
