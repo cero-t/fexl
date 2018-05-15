@@ -18,19 +18,19 @@
 
 
 - H.DASH
-  - 小ジャンプ（ゲージ消費なし）
+  - 低空ダッシュ。通常ダッシュの代わりか？（ゲージ消費なし）
 - TELEPORT
-  - 相手の前にワープ（ゲージ消費なし）
+  - 相手の前にワープ。通常ダッシュの代わりか？（ゲージ消費なし）
 - GRAB UP
-  - 恐らく投げ間合いが広がる
-- S.CHAIN
-  - 6ボタンチェーン
+  - 投げ間合いが広がる？（アイコンから推測）
 - ERASE (ERASE BROW / 旧E.BROW)
   - 飛び道具を通常技で消せるようになる？（アイコンから推測）
+- S.CHAIN
+  - 6ボタンチェーン
 - 詳細不明
   - DESPERATION
   - EX ARROW
-  - UTUSEMI
+  - UTUSEMI
   - CRITICAL
   - PIERCE
   - FRENZY
@@ -41,3 +41,10 @@
 
 - 飛び道具カウンタースパコン（ https://twitter.com/FightingExLayer/status/975079895469408256 ）
 - 竜巻を止めたカウンター（ https://www.youtube.com/watch?v=TDJAyMIpCKU&t=23s ）
+
+
+## SOURCES
+
+- 通常版 https://www.youtube.com/watch?v=dy1XoTwjKvU
+- ライト版 https://www.youtube.com/watch?v=dy1XoTwjKvU
+- ほくと https://www.youtube.com/watch?v=H5X1Vz_ubjA
