@@ -2,7 +2,7 @@
 
 |No|Name|1|2|3|4|5|Note|
 |--|----|-|-|-|-|-|----|
-|1|AGGRO|RAMPAGE|ILLUSION|CHIP UP|ATK UP|ATK UP|βから変更なし|
+|1|AGGRO|RAMPAGE|ILLUSION|CHIP UP|GRAB UP|ERASE|通常版PV。対戦動画で確定|
 |2|JUGGERNAUT|HADES|G.BREAK|METER UP|SPEED UP|ATK UP|βから変更なし|
 |3|SHINOBI|GHOST|G.CANCEL|G.BREAK|SPEED UP|ATK UP|βから変更なし|
 |4|INFINITY|RAGE|G.CANCEL|METER UP|METER UP|METER UP|βから変更なし|
@@ -13,7 +13,6 @@
 |?|?|H.DASH|UTUSEMI|GRAB UP|SPEED UP|SPEED UP|通常版PV|
 |?|?|TELEPORT|CRITICAL|ATK UP|METER UP|FRENZY|通常版PV。サンダーボルトか？|
 |?|?|EX ARROW|G.BREAK|ILLUSION|CHIP UP|FRENZY|通常版PV|
-|?|?|RAMPAGE|ILLUSION|CHIP UP|GRAB UP|ERASE|通常版PV|
 |?|?|S.CHAIN|PIERCE|CHIP UP|METER UP|ERASE|https://twitter.com/miharasan/status/981756364622974976|
 
 
@@ -41,6 +40,7 @@
 ## UNKNOWN
 
 - 飛び道具カウンタースパコン（ https://twitter.com/FightingExLayer/status/975079895469408256 ）
+  - ERASEして空キャンスパコンしている可能性が高い
 - 竜巻を止めたカウンター（ https://www.youtube.com/watch?v=TDJAyMIpCKU&t=23s ）
 
 
