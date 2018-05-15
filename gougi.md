@@ -26,7 +26,7 @@
 - S.CHAIN
   - 6ボタンチェーン
 - ERASE (ERASE BROW / 旧E.BROW)
-  - 飛び道具を通常技で消せるようになる？（アイコンから推測）
+  - 飛び道具を通常技で消せるようになる？（アイコンから推測）
 - 詳細不明
   - DESPERATION
   - EX ARROW
