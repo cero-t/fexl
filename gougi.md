@@ -2,8 +2,8 @@
 
 Only No.1 to 5 decks are available in Light Edition. All decks are available in Full Edition.
 
-|No|Name|1|2|3|4|5|Note|
-|--|----|-|-|-|-|-|----|
+|No|Name|1|2|3|4|5|
+|--|----|-|-|-|-|-|
 |1|AGGRO|RAMPAGE|ILLUSION|CHIP UP|GRAB UP|ERASE|
 |2|JUGGERNAUT|HADES|G.BREAK|METER UP|SPEED UP|ATK UP|
 |3|SHINOBI|GHOST|G.CANCEL|G.BREAK|SPEED UP|ATK UP|
