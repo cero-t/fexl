@@ -14,6 +14,7 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 |9|SKY DANCER|EX ARROW|G.BREAK|ILLUSION|CHIP UP|FRENZY|
 |10|NIGHTMARE|E.DRAIN|S.DRAIN|GHOST|SPEED UP|SPEED UP|
 |12|THUNDER BOLT|TELEPORT|CRITICAL|ATK UP|METER UP|FRENZY|
+|15|GRAB MASTER|K.POWER|K.GRAB|GRAB UP|SPEED UP|ERASE|
 |?|?|DESPERATION|G.CANCEL|M.POWER|METER UP|METER UP|
 |?|?|S.CHAIN|PIERCE|CHIP UP|METER UP|ERASE|
 
@@ -30,6 +31,8 @@ Gold
 |DESPERATION|???|???|
 |M.POWER|???|???|
 |PIERECE|???|???|
+|K.POWER (Kraken Power)|コマンド投げのダメージアップ？|コマンド投げで5回触る|
+|K.GRAB (Kraken Grab)|コマンド投げの投げ間合いアップ？|投げ間合いに累計10秒いる|
 |TELEPORT|ダッシュで相手の前にワープする|ダッシュ攻撃で5回触る|
 |HUNTING|ダッシュが低空ジャンプになる|通常ダッシュを累計??秒する|
 |EX ARROW|詳細不明。鋭いジャンプ?|ジャンプ攻撃で4回触る|
@@ -55,13 +58,15 @@ Blue
 |SPEED UP|前後移動のスピードが10%アップ|10秒経過する|
 |METER UP|ゲージ増加量10%アップ|10回触る|
 |GRAB UP|通常投げの間合いが20%アップ|通常投げを2回|
-|ERASE (Erase Brow)|強の通常技で弾消しできる|強の通常技で3回触る|
+|ERASE (Erase Blow)|強の通常技で弾消しできる|強の通常技で3回触る|
 |FRENZY|体力が20%(?)未満になると攻撃力が??%アップ|体力が20%(?)未満になった状態を??秒継続|
 
 
 ## SOURCES
 
-- 新強氣 対戦動画 https://www.youtube.com/watch?v=HKOlLgKstSo
+- 新強氣 対戦動画
+  - https://www.youtube.com/watch?v=HKOlLgKstSo
+  - https://www.youtube.com/watch?v=NYftHH_2TGk
 - 5/26 対戦会 https://www.twitch.tv/videos/265604489
 - 通常版 https://www.youtube.com/watch?v=dy1XoTwjKvU
   - DESPERATION
