@@ -50,7 +50,7 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 |UTSUSEMI|受け身で姿が消える|5回受け身を行う|
 |HADES|スーパーアーマーになる|12回ダウンする|
 |S.CHAIN|6ボタンチェーンが可能になる|???|
-|HEADS/TAILS|1ラウンドごとにHADESとS.CHAINが切り替わる|1本取られたら?|
+|HEADS/TAILS|1ラウンドごとにHADESとS.CHAINが切り替わる|?（1本取られたら）|
 |RAGE|スーパーコンボゲージが自動回復|スーパーコンボゲージを10ブロック消費する|
 |E.DRAIN (Energy Drain)|ダウンした相手に密着するとゲージを吸い取る|4回ダウンを奪う|
 |S.DRAIN (Soul Drain)|相手に密着するとゲージ、体力を吸い取る|スーパーコンボゲージを累計99吸い取る|
