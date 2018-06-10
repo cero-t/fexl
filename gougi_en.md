@@ -58,7 +58,7 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 |ILLUSION|Escape from combo once per round|Take 300 damages|
 |OVERLOAD|Activate all gougi|Attack your opponent by special attacks while keeping full meters|
 
-Blue
+### Blue
 
 |Name|Effect|Trigger|
 |----|------|-------|
