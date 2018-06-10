@@ -25,9 +25,9 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 
 ### Gold
 
-? : likely (Judging from PV)
-?? : possibly (Judging from gougi name or icon)
-??? : Unknown
+- ? : likely (Judging from PV)
+- ?? : possibly (Judging from gougi name or icon)
+- ??? : Unknown
 
 |Name|Effect|Trigger|
 |----|------|-------|
