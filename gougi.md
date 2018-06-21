@@ -1,6 +1,8 @@
 ## DECKS
 
-Only No.1 to 5 decks are available in Light Edition. All decks are available in Full Edition.
+English version: https://github.com/cero-t/fexl/blob/master/gougi_en.md
+
+ライト版ではNo.1から5のデッキのみ利用可能。通常版では全デッキが利用可能。
 
 |No|Name|1|2|3|4|5|
 |--|----|-|-|-|-|-|
