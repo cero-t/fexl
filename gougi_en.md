@@ -27,10 +27,6 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 
 ### Gold
 
-- ? : likely (Judging from PV)
-- ?? : possibly (Judging from gougi name or icon)
-- ??? : Unknown
-
 |Name|Effect|Trigger|
 |----|------|-------|
 |RAMPAGE|Damage increases the more you attack.|Deal 40 Damage in a single Combo.|
@@ -71,16 +67,3 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 |GRAB UP|Increase Normal Throw range by 20%.|Land 2 Normal Throws.|
 |ERASE (Erase Blow)|Gain the ability to negate projectiles with Heavy Attacks.|Attack your opponent with Heavy Attacks 3 times.|
 |FRENZY|Increase Damage as your Health os lowered.|Remain below 50 Health for 6 seconds.|
-
-
-## SOURCES
-
-- 全強氣 https://www.youtube.com/watch?v=DZLdqT9aw3E
-- 新強氣 対戦動画
-  - https://www.youtube.com/watch?v=HKOlLgKstSo
-  - https://www.youtube.com/watch?v=NYftHH_2TGk
-- 5/26 対戦会 https://www.twitch.tv/videos/265604489
-- 通常版 https://www.youtube.com/watch?v=dy1XoTwjKvU
-- ライト版 https://www.youtube.com/watch?v=nryh2zSUxC4
-- ほくと https://www.youtube.com/watch?v=H5X1Vz_ubjA
-- 6ボタンチェーン https://twitter.com/miharasan/status/981756364622974976
