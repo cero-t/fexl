@@ -6,21 +6,21 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 
 |No|Name|1|2|3|4|5|
 |--|----|-|-|-|-|-|
-|1|AGGRO|RAMPAGE|ILLUSION|CHIP UP|GRAB UP|ERASE|
-|2|JUGGERNAUT|HADES|G.BREAK|METER UP|SPEED UP|ATK UP|
-|3|SHINOBI|GHOST|G.CANCEL|G.BREAK|SPEED UP|ATK UP|
-|4|INFINITY|RAGE|G.CANCEL|METER UP|METER UP|METER UP|
-|5|MIRACLE|OVERLOAD|HADES|S.DRAIN|UTSUSEMI|MAMMOTH|
-|6|STEALTH RAPTOR|HUNTING|UTSUSEMI|GRAB UP|SPEED UP|SPEED UP|
-|7|BERSERKER|S.CHAIN|PIERCE|GRAB UP|METER UP|ERASE|
-|8|DOUBLE FACE|HEADS/TAILS|G.CANCEL|ILLUSION|GRAB UP|SPEED UP|
-|9|SKY DANCER|EX ARROW|G.BREAK|ILLUSION|CHIP UP|FRENZY|
-|10|NIGHTMARE|E.DRAIN|S.DRAIN|GHOST|SPEED UP|SPEED UP|
-|11|BABEL|DESPERATION|G.CANCEL|M.POWER|METER UP|METER UP|
-|12|THUNDER BOLT|TELEPORT|CRITICAL|ATK UP|METER UP|FRENZY|
-|13|FANTASISTA|OVERLOAD|RAGE|G.BREAK|DISRUPT|M.POWER|
-|14|SUPERNOVA|M.GROSS|P.REVERSAL|DISRUPT|ATK UP|METER UP|
-|15|GRAB MASTER|K.POWER|K.GRAB|GRAB UP|SPEED UP|ERASE|
+|1|AGGRO|RAMPAGE|ILLUSION|CHIP UP|GRAB UP|ERASE BLOW|
+|2|JUGGERNAUT|HADES|GUARD BREAK|METER UP|SPEED UP|ATTACK UP|
+|3|SHINOBI|GHOST|GUARD CANCEL|GUARD BREAK|SPEED UP|ATTACK UP|
+|4|INFINITY|RAGE|GUARD CANCEL|METER UP|METER UP|METER UP|
+|5|MIRACLE|OVERLOAD|HADES|SOUL DRAIN|UTSUSEMI|MAMMOTH|
+|6|STEALTH RAPTOR|HUNTING DASH|UTSUSEMI|GRAB UP|SPEED UP|SPEED UP|
+|7|BERSERKER|6 CHAIN|PIERCE|GRAB UP|METER UP|ERASE BLOW|
+|8|DOUBLE FACE|HEADS/TAILS|GUARD CANCEL|ILLUSION|GRAB UP|SPEED UP|
+|9|SKY DANCER|EX ARROW|GUARD BREAK|ILLUSION|CHIP UP|FRENZY|
+|10|NIGHTMARE|ENERGY DRAIN|SOUL DRAIN|GHOST|SPEED UP|SPEED UP|
+|11|BABEL|DESPERATION|GUARD CANCEL|METER POWER|METER UP|METER UP|
+|12|THUNDER BOLT|TELEPORT|CRITICAL|ATTACK UP|METER UP|FRENZY|
+|13|FANTASISTA|METER GROSS|POWER REVERSAL|DISRUPT|ATTACK UP|METER UP|
+|14|SUPERNOVA|OVERLORD|RAGE|GUARD BREAK|DISRUPT|METER POWER|
+|15|GRAB MASTER|KRAKEN POWER|KRAKEN GRAB|GRAB UP|SPEED UP|ERASE BLOW|
 
 
 ## GOUGI
@@ -33,44 +33,44 @@ Only No.1 to 5 decks are available in Light Edition. All decks are available in 
 
 |Name|Effect|Trigger|
 |----|------|-------|
-|RAMPAGE|Damage increases the more you attack|Deal 40 damage in one combo|
-|MAMMOTH|Increase damage by 35%|Spend 20 meters|
-|CRITICAL|?? (Increase damage periodically?)|Avoid opponent's attacks for 12 seconds|
-|DESPERATION|???|???|
-|M.POWER (Meter Power)|?? (Increase damage depending on meters?)|???|
-|DISRUPT|? (Increase super combo damage consuming all meters?)|???|
-|PIERECE|Add chip up damage to nomal moves|???|
-|M.GROSS|? (Increase meter gain several times)|???|
-|P.REVERSAL|?? (Easy reversal)|???|
-|K.POWER (Kraken Power)|?? (Increase command grab damage?)|Grab your opponent 5 times by command grab|
-|K.GRAB (Kraken Grab)|?? (Increase command grab range?)|Stay in the grab range for a total of 10 seconds|
-|TELEPORT|Forward dash becomes teleport in front of your opponent|Attack your opponent 5 times by dash attacks (hit/blocked)|
-|HUNTING|Forward dash becomes low jump|Forward dash for a total of ?? seconds|
-|EX ARROW|Add high speed jump (Quickly ↓ then ↑ ??)|Attack your opponent 4 times by jump attacks (hit/blocked)|
-|GHOST|Turn invisible during forward dashes|Avoid opponent's attacks for 6 seconds|
-|UTSUSEMI|Turn invisible during after teching|Use tecking 5 times|
-|HADES|Gain super armor|Get knocked down 12 times|
-|S.CHAIN|6 button chain combo|???|
-|HEADS/TAILS|Switch HADES and S.CHAIN for each round|? (lose 1 round?)|
-|RAGE|Gain meters automatically|Spend 10 meters|
-|E.DRAIN (Energy Drain)|Absorb opponent's meter while standing by the knocked down your opponent|Knock down your opponent 4 times|
-|S.DRAIN (Soul Drain)|Absorb opponent's life and meter while standing by your opponent|Absorb 99 points of meter (about 2 meters)|
-|G.BREAK (Guard Break)|Hard Attacks become Guard Breaks|Attack your opponent 4 times by Hard Attacks|
-|G.CANCEL (Guard Cancel)|Add guard cancel (spending 1 meter)|Block 30 attacks|
-|ILLUSION|Escape from combo once per round|Take 300 damages|
-|OVERLOAD|Activate all gougi|Attack your opponent by special attacks while keeping full meters|
+|RAMPAGE|Damage increases the more you attack.|Deal 40 Damage in a single Combo.|
+|MAMMOTH|Increase damage by 35%.|Spend 20 blocks of Super Meter.|
+|CRITICAL|Gain a large Damage boost for a limited time.|Avoid your opponent for 12 Seconds.|
+|DESPERATION|Damage increases the more you land Special Attacks/Super Combos.|Perform Special Attacks or Super Combos 8 times.|
+|M.POWER (Meter Power)|Gain a Damage boost depending on how much Super Meter you have.|Build 5 bars of Super Meter.|
+|DISRUPT|Spend all Super Meter to perform a powerful Super Combo.|Perform a Super Cancel from a Super Combo 2 times.|
+|PIERECE|Normal Attacks deal Chip Damage.|Attack your opponent 30 times.|
+|M.GROSS|Gain Meter when performing Reversals.|Perform 2 Reversals.|
+|P.REVERSAL|Reversals gain a Damage boost.|Attack 5 Reversals.|
+|K.POWER (Kraken Power)|Increase Special Throw and Throw Super Combo damage by 20%.|Perform a Special Throw or Throw Super Combo 5 times.|
+|K.GRAB (Kraken Grab)|Special/Super Throw Range 30% UP. (Some exceptions)|Spend a total of 10 seconds close to your opponent.|
+|TELEPORT|Teleport directly in front of your opponent when Dashing.|Attack your opponent with an Attack out of a Dash 5 times.|
+|HUNTING DASH|Forward Dashes become Short Hops.|Dash for a total of 3 seconds.|
+|EX ARROW|By inputting Down > Up, you can jump directly to your opponent.|Attack your opponent with 4 Jump Attacks.|
+|GHOST|Turn invisible during Forward Dashes.|Avoid your opponent for 6 seconds.|
+|UTSUSEMI|Turn invisible during Recoveries.|Perform a Recovery 5 times.|
+|HADES|Gain Super Armor|Get knocked down 12 times.|
+|6 CHAIN|Chain Combos become 6 Chains.|Perform 15 Chain Combos.|
+|HEADS/TAILS|Win to activate 6 Chain, Lost to activate Hades.| Complete 1 Round.|
+|RAGE|Gain the ability to recover Super Meter|Spend 10 Blocks of Super Meter.|
+|E.DRAIN (Energy Drain)|Drain Super Meter from a downed opponent.|Knock your opponent down 4 times.|
+|S.DRAIN (Soul Drain)|Drain Super Meter and health by getting near your opponent.|Drain a total of 99 Super Meter from your opponent.|
+|G.BREAK (Guard Break)|Hard Attacks become Guard Breaks.|Attack your opponent with 4 Hard Attacks.|
+|G.CANCEL (Guard Cancel)|Become able to cancel Guards into Special Attack/Super Combos.|Guard 30 Attacks.|
+|ILLUSION|Become able to escape combos once per round.|Receive over 300 points of Damage.|
+|OVERLOAD|Activate all other Gougi.|While having MAX Super Meter, attack 25 Special Attacks.|
 
 ### Blue
 
 |Name|Effect|Trigger|
 |----|------|-------|
-|ATK UP (Attack Up)|Increase damage by 5%|Build 1 meter|
-|CHIP UP|Increase chip damage by 1|Deal 40 points of chip damage|
-|SPEED UP|Increase movement speed by 10%|Pass 10 seconds|
-|METER UP|Increase meter gain by 10%|Attack your opponent 10 times (hit/blocked)|
-|GRAB UP|Increase grab range by 20%|Grab your opponent twice by normal grab|
-|ERASE (Erase Blow)|HP and HK have ability to erase opponent's projectile|Attack your opponent 3 times by HP or HK (hit/blocked)|
-|FRENZY|Increase damage by ??% during the rest of life is less than 20%(?)|Keep the life less than 20%(?) for ?? seconds|
+|ATK UP (Attack Up)|Increase Damage by 5%.|Build 1 Bar of Super Meter.|
+|CHIP UP|Increase Chip Damage by 1.|Deal 40 points of Chip Damage.|
+|SPEED UP|Increase Movement Speed by 10%.|Allow 10 Seconds to pass in game.|
+|METER UP|Increase Super Meter Gain by 10%.|Attack your opponent 10 times.|
+|GRAB UP|Increase Normal Throw range by 20%.|Land 2 Normal Throws.|
+|ERASE (Erase Blow)|Gain the ability to negate projectiles with Heavy Attacks.|Attack your opponent with Heavy Attacks 3 times.|
+|FRENZY|Increase Damage as your Health os lowered.|Remain below 50 Health for 6 seconds.|
 
 
 ## SOURCES
