@@ -1,6 +1,13 @@
+English version: https://github.com/cero-t/fexl/blob/master/gougi_en.md
+
+## 注意
+
+このリストリリース直後までの情報をまとめたものです。  
+最新の情報は公式サイトをご覧ください。  
+http://www.arika.co.jp/product/fexl_hp/jp/system_jp/fexl_jp_gougi.html
+
 ## DECKS
 
-English version: https://github.com/cero-t/fexl/blob/master/gougi_en.md
 
 ライト版ではNo.1から5のデッキのみ利用可能。通常版では全デッキが利用可能。
 
@@ -46,7 +53,7 @@ English version: https://github.com/cero-t/fexl/blob/master/gougi_en.md
 |GHOST|ダッシュで姿が消える|6秒間相手に触られない|
 |UTSUSEMI|受け身で姿が消える|5回受け身を行う|
 |HADES|スーパーアーマーになる|12回ダウンする|
-|S.CHAIN (6 Chain)|6ボタンチェーンが可能になる|チェーンコンボを15回行う|
+|6 CHAIN|6ボタンチェーンが可能になる|チェーンコンボを15回行う|
 |HEADS/TAILS|ラウンドを取るとS.CHAINになり、ラウンドを落とすとHADESになる|1ラウンドを終える|
 |RAGE|スーパーコンボゲージが自動回復|スーパーコンボゲージを10ブロック消費する|
 |E.DRAIN (Energy Drain)|ダウンした相手に密着するとゲージを吸い取る|4回ダウンを奪う|
