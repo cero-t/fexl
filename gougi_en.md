@@ -1,6 +1,12 @@
-## DECKS
-
 日本語版: https://github.com/cero-t/fexl/blob/master/gougi.md
+
+## Note
+
+This Gougi list is no longer updated. Please reffer to the official Gougi list for latest information.  
+http://www.arika.co.jp/product/fexl_hp/eng/system_eng/fexl_eng_gougi.html
+
+
+## DECKS
 
 Only No.1 to 5 decks are available in Light Edition. All decks are available in Full Edition.
 
